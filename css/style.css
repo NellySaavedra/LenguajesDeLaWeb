@@ -1,18 +1,37 @@
 h1{
-	color: red; 
+	color: #610B0B; 
 	font-family: Arial; 
 	font-weight: 500; 
 	font-size: 20px;
+	text-align: center;
+	background-color: #ACFA58;
 }
 
 h2{
 	color: black; 
 	font-size: 16px;
+	background-color: #8904B1;
 }
 img{
-	border: 1px solid blue
+	border: 10px solid #0B4C5F;
+	display: block; 
+	margin: auto;
+	border-radius: 22px;
+
 }
 p{
-	color: yellow; 
+	color: black; 
 	font-size: 14px;
+	background-color: #AC58FA;
+}
+ul li {
+	background-color: #58ACFA;
+}
+
+*{
+	font-family: Dotum;
+	margin: 10px 50px 10px 50px;
+}
+body {
+	background-color: black;
 }
